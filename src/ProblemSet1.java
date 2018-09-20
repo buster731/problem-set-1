@@ -22,12 +22,27 @@ public class ProblemSet1 {
 		System.out.println("#      # #       #               #");
 		System.out.println("#      # #       #               #");
 		System.out.println("#      # #       ######## ########");
+		
 		System.out.println("/// EXERCISE 2 /////////////////////////////////////////////////\n");
+		System.out.println("  /\\     /\\     /\\");
+		System.out.println(" /  \\   /  \\   /  \\");
+		System.out.println("/    \\ /    \\ /    \\");
+		System.out.println("\\    / \\    / \\    /");
+		System.out.println(" \\  /   \\  /   \\  /");
+		System.out.println("  \\/     \\/     \\/\n");
 		
 		System.out.println("/// EXERCISE 3 /////////////////////////////////////////////////\n");
+		System.out.print("   \\\\\\\\\\\n");
+		System.out.print("  +\"\"\"\"\"+\n");
+		System.out.print("(|  0 0  |)\n");
+		System.out.print(" |   ^   |\n");
+		System.out.print(" |  \'-\'  |\n");
+		System.out.print("  +-----+\n");
 		
 		System.out.println("/// EXERCISE 4 /////////////////////////////////////////////////\n");
+		System.out.println("H E L L O \nE       A\nL       P\nL       C\nO A P C S");
 		
 		System.out.println("/// EXERCISE 5 /////////////////////////////////////////////////\n");
+		System.out.println("\"The answer\'s quite simple,\" the professor said. \"Just think outside the box!\"");
 	}
 }
